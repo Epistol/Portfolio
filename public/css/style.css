@@ -1,7 +1,7 @@
 .lapp {
-    margin: 1rem;
-    -webkit-box-shadow:inset 0 0 0 1rem #F3755E;
-    box-shadow:inset 0 0 0 1rem #F3755E;
+    margin: 3rem 1rem 1rem;
+    -webkit-box-shadow:inset 0 0 0 0.7rem #ff675c;
+    box-shadow:inset 0 0 0 0.7rem #ff675c;
     min-height: 98vh;
     padding:1rem;
     -webkit-transition: all 0.3s ease-in-out;
