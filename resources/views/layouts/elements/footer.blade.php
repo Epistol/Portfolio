@@ -8,3 +8,5 @@
     ga('send', 'pageview');
 
 </script>
+
+<script src="//cdn.rawgit.com/noelboss/featherlight/1.7.1/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
