@@ -20,10 +20,10 @@ var sticky = new Waypoint({
             console.log('Handler triggered in ' + direction + ' direction');
 
         if (direction == 'down') {
-            $( '.navbar' ).addClass('stuck');
+            $( '.navbar' ).addClass('stuck animated fadeIn');
         }
         else {
-            $( '.navbar' ).removeClass('stuck');
+            $( '.navbar' ).removeClass('stuck animated fadeIn');
         }/*
         $( '.navbar' ).toggleClass('active');*/
 

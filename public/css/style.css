@@ -29,6 +29,9 @@ body {
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     border:0px solid transparent;
+    width: 100%;
+    position: fixed;
+
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form{
     border: 0px solid transparent;
@@ -68,21 +71,8 @@ img.flag {
 {
 
     .stuck {
-
-        left: auto;
-        right: auto;
-        padding-left: 0;
-        padding-right: 0;
         position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        -webkit-transition: all 0.3s ease-in-out;
-        -moz-transition: all 0.3s ease-in-out;
-        -ms-transition: all 0.3s ease-in-out;
-        -o-transition: all 0.3s ease-in-out;
-        transition: all 0.3s ease-in-out;
-        opacity:1;
+        width:100%;
     }
 
 

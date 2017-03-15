@@ -1,4 +1,4 @@
-<section class="section" style="background: #9575CD;">
+<section class="section" style="background: #FF7043;">
     <div class="container">
         <div class="heading">
             <h1 class="title profil">Expériences</h1>
@@ -14,20 +14,15 @@
                 <div class="column">
                     <div class="card">
                         <div class="card-image">
-                            <figure class="image is-4by3">
-                                <img src="http://bulma.io/images/placeholders/1280x960.png" alt="Image">
+                            <figure class="image is-square">
+                                <img src="{{asset('img/pwe.png')}}" alt="Image">
                             </figure>
                         </div>
                         <div class="card-content">
                             <div class="media">
-                                <div class="media-left">
-                                    <figure class="image" style="height: 40px; width: 40px;">
-                                        <img src="http://bulma.io/images/placeholders/96x96.png" alt="Image">
-                                    </figure>
-                                </div>
                                 <div class="media-content">
-                                    <p class="title is-4">John Smith</p>
-                                    <p class="subtitle is-6">@johnsmith</p>
+                                    <p class="title is-4">Pokeworldest</p>
+                                    <p class="subtitle is-6">PWE</p>
                                 </div>
                             </div>
 
