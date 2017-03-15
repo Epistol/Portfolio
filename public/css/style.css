@@ -33,6 +33,36 @@ body {
 .navbar-default .navbar-collapse, .navbar-default .navbar-form{
     border: 0px solid transparent;
 }
+h1.profil::first-letter{
+    font-size:2.5rem;
+    background: white;
+    color:#F3755E;
+    padding:0.5rem;
+    border:1px solid white;
+    margin-right:0.5rem;
+}
+
+.subtitle {
+    color: #263238;
+    font-size: 1.25rem;
+    font-weight: 300;
+    line-height: 1.25;
+}
+
+
+img.flag {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    max-height: 3rem;
+    padding: 0.7rem;
+}
+
+.off-centre {
+    padding-left: 5%;
+}
+
 
 @media (min-width: 768px)
 {

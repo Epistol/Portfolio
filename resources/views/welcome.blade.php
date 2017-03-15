@@ -8,10 +8,6 @@
     <div class="coucou"></div>
     @include('layouts.elements.profil')
 
-    @include('layouts.elements.profil')
-    @include('layouts.elements.profil')
-
-
     @include('layouts.elements.competences')
     @include('layouts.elements.experiences')
     @include('layouts.elements.galerie')

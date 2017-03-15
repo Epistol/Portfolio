@@ -11,14 +11,32 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+//FR Routes
+Route::group(['prefix' => 'fr'], function() {
+	Route::get('contact', 'ContactController@index');
+
+	Route::get('/', function () {
+		return view('welcome');
+	});
+
+	Route::get('/coucou', function(){
+		return 'yo';
+	});
 });
 
-Route::get('/coucou', function(){
-return 'yo';
+
+// EN routes
+Route::group(['prefix' => 'en'], function() {
+
+	Route::get('/', function () {
+		return view('welcome');
+	});
+
+	Route::get('/coucou', function(){
+		return 'yo';
+	});
 });
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index');
+

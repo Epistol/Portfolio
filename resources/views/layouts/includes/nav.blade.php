@@ -34,6 +34,11 @@
             <li><a href="#exp">Experiences</a></li>
             <li><a href="epistol.info/cv">CV</a></li>
             <li><a href="#contact">Contact</a></li>
+            <li>
+                <a href="/en">
+                <img class="flag" src="https://lipis.github.io/flag-icon-css/flags/4x3/gb.svg" alt="United Kingdom Flag">
+                </a>
+            </li>
             {{--  <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
                       {{ Auth::user()->name }} <span class="caret"></span>
