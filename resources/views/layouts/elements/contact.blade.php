@@ -1,4 +1,4 @@
-<section class="section" style="background: #E0E0E0;">
+<section class="section" style="background: #E0E0E0;" id="contact">
     <div class="container">
         <div class="heading">
             <h1 class="title profil">Contact</h1>

@@ -1,4 +1,4 @@
-<section class="section" style="background: #FFAB91;">
+<section class="section" style="background: #FFAB91;" id="profil">
     <div class="container">
         <div class="heading">
             <h1 class="title profil">Profil</h1>

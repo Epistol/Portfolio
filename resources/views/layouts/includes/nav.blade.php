@@ -32,7 +32,7 @@
             <li><a href="#profil">Profil</a></li>
             <li><a href="#comp">Competences</a></li>
             <li><a href="#exp">Experiences</a></li>
-            <li><a href="epistol.info/cv">CV</a></li>
+            <li><a href="http://epistol.info/cv">CV</a></li>
             <li><a href="#contact">Contact</a></li>
             <li>
                 <a href="/en">

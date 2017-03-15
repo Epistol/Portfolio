@@ -1,4 +1,4 @@
-<section class="section" style="background: #FF8A65;">
+<section class="section" style="background: #FF8A65;" id="comp">
     <div class="container">
         <div class="heading">
             <h1 class="title profil">Compétences</h1>
